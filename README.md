@@ -1,6 +1,12 @@
-# Spotify Listening Analysis
+# Spotify Listening Data Analysis
 
-This project analyzes Spotify streaming history to understand listening behavior and patterns.
+Analysis of personal Spotify streaming history using Python and Jupyter Notebook.
+
+## Project Highlights
+• Listening heatmap by day and hour  
+• Top artists and songs  
+• Listening trends over time  
+• Music vs podcast analysis
 
 ## Tools
 - Python
